@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nodejs, CSS, Javascript**
 
-- 📫 How to reach me **190030036@iitdh.ac.in**
+- 📫 How to reach me **190030036.alum23@iitdh.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
